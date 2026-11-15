@@ -1,2 +1,3 @@
 # ASTRAcare
-Nasa space app hackathon's code
+Download the ASTRAcare.zip file
+Then follow the instructions from the readme file
